@@ -1,2 +1,2 @@
 # Data_Structures
-Programs &amp; assignments for Logic Building batch - Data Structures
+Programs of Logic Building batch - Data Structures
